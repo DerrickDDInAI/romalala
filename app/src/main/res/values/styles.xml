@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Romalala" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">#70578F</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:statusBarColor">#FFF9ED</item>
+        <item name="android:navigationBarColor">#FFF9ED</item>
+        <item name="android:windowBackground">#FFF9ED</item>
+    </style>
+    <color name="launcher_background">#D5C5F1</color>
+</resources>

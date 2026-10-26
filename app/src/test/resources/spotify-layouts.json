@@ -1,0 +1,914 @@
+[
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.57 (4).jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "FULL_SCREEN",
+    "lines": [
+      {
+        "right": 746,
+        "bottom": 41,
+        "top": 23,
+        "left": 719,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 205,
+        "bottom": 62,
+        "top": 29,
+        "left": 35,
+        "text": "Text 1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 814,
+        "bottom": 56,
+        "top": 32,
+        "left": 781,
+        "text": "Text 2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 541,
+        "bottom": 161,
+        "top": 128,
+        "left": 335,
+        "text": "Text 3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 107,
+        "bottom": 181,
+        "top": 142,
+        "left": 56,
+        "text": "歌詞4",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 532,
+        "bottom": 196,
+        "top": 166,
+        "left": 341,
+        "text": "Text 5",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 591,
+        "bottom": 313,
+        "top": 261,
+        "left": 35,
+        "text": "歌詞6",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 639,
+        "bottom": 417,
+        "top": 363,
+        "left": 32,
+        "text": "歌詞7",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 648,
+        "bottom": 517,
+        "top": 466,
+        "left": 38,
+        "text": "歌詞8",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 639,
+        "bottom": 622,
+        "top": 571,
+        "left": 32,
+        "text": "歌詞9",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 689,
+        "bottom": 726,
+        "top": 672,
+        "left": 32,
+        "text": "歌詞10",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 692,
+        "bottom": 831,
+        "top": 776,
+        "left": 32,
+        "text": "歌詞11",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 645,
+        "bottom": 932,
+        "top": 881,
+        "left": 35,
+        "text": "歌詞12",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 683,
+        "bottom": 1035,
+        "top": 981,
+        "left": 32,
+        "text": "歌詞13",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 80,
+        "bottom": 1101,
+        "top": 1053,
+        "left": 35,
+        "text": "歌詞14",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 514,
+        "bottom": 1212,
+        "top": 1154,
+        "left": 32,
+        "text": "歌詞15",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 499,
+        "bottom": 1310,
+        "top": 1256,
+        "left": 35,
+        "text": "歌詞16",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 639,
+        "bottom": 1410,
+        "top": 1359,
+        "left": 35,
+        "text": "歌詞17",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 588,
+        "bottom": 1515,
+        "top": 1464,
+        "left": 32,
+        "text": "歌詞18",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 630,
+        "bottom": 1616,
+        "top": 1565,
+        "left": 38,
+        "text": "歌詞19",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 112,
+        "bottom": 1812,
+        "top": 1785,
+        "left": 50,
+        "text": "0:09",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1813,
+        "top": 1786,
+        "left": 761,
+        "text": "7:27",
+        "whiteFraction": 0.0
+      }
+    ]
+  },
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.57 (2).jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "INLINE_PREVIEW",
+    "lines": [
+      {
+        "right": 164,
+        "bottom": 64,
+        "top": 15,
+        "left": 34,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 752,
+        "bottom": 41,
+        "top": 23,
+        "left": 716,
+        "text": "Text 1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 814,
+        "bottom": 60,
+        "top": 26,
+        "left": 772,
+        "text": "Text 2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 556,
+        "bottom": 115,
+        "top": 79,
+        "left": 323,
+        "text": "Text 3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 517,
+        "bottom": 149,
+        "top": 119,
+        "left": 350,
+        "text": "Text 4",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 615,
+        "bottom": 1229,
+        "top": 1190,
+        "left": 59,
+        "text": "歌詞5",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 496,
+        "bottom": 1390,
+        "top": 1338,
+        "left": 184,
+        "text": "Text 6",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 422,
+        "bottom": 1432,
+        "top": 1396,
+        "left": 184,
+        "text": "Text 7",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 112,
+        "bottom": 1548,
+        "top": 1518,
+        "left": 50,
+        "text": "3:45",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1548,
+        "top": 1521,
+        "left": 761,
+        "text": "7:27",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 282,
+        "bottom": 1690,
+        "top": 1625,
+        "left": 208,
+        "text": "Text 10",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1848,
+        "top": 1797,
+        "left": 781,
+        "text": "Text 11",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 202,
+        "bottom": 1842,
+        "top": 1803,
+        "left": 41,
+        "text": "歌詞12",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 169,
+        "bottom": 1988,
+        "top": 1946,
+        "left": 68,
+        "text": "Lyrics",
+        "whiteFraction": 0.0
+      }
+    ]
+  },
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.57.jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "INLINE_PREVIEW",
+    "lines": [
+      {
+        "right": 826,
+        "bottom": 59,
+        "top": 20,
+        "left": 686,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 160,
+        "bottom": 59,
+        "top": 29,
+        "left": 41,
+        "text": "Text 1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 98,
+        "bottom": 321,
+        "top": 172,
+        "left": 71,
+        "text": "Text 2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 704,
+        "bottom": 708,
+        "top": 666,
+        "left": 53,
+        "text": "歌詞3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 448,
+        "bottom": 866,
+        "top": 818,
+        "left": 50,
+        "text": "Text 4",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 249,
+        "bottom": 908,
+        "top": 871,
+        "left": 53,
+        "text": "Text 5",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 112,
+        "bottom": 1026,
+        "top": 996,
+        "left": 50,
+        "text": "2:08",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1027,
+        "top": 1000,
+        "left": 761,
+        "text": "8:57",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 282,
+        "bottom": 1166,
+        "top": 1104,
+        "left": 222,
+        "text": "Text 8",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 466,
+        "bottom": 1166,
+        "top": 1106,
+        "left": 407,
+        "text": "Text 9",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 826,
+        "bottom": 1324,
+        "top": 1277,
+        "left": 778,
+        "text": "Text 10",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 169,
+        "bottom": 1464,
+        "top": 1425,
+        "left": 68,
+        "text": "Lyrics",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 573,
+        "bottom": 1479,
+        "top": 1434,
+        "left": 529,
+        "text": "歌詞12",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 163,
+        "bottom": 1584,
+        "top": 1536,
+        "left": 68,
+        "text": "歌詞13",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 92,
+        "bottom": 1675,
+        "top": 1646,
+        "left": 71,
+        "text": "Text 14",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 752,
+        "bottom": 1833,
+        "top": 1773,
+        "left": 74,
+        "text": "歌詞15",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 407,
+        "bottom": 1914,
+        "top": 1854,
+        "left": 71,
+        "text": "歌詞16",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 683,
+        "bottom": 2045,
+        "top": 2002,
+        "left": 65,
+        "text": "歌詞17",
+        "whiteFraction": 0.0
+      }
+    ]
+  },
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.56.jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "FULL_SCREEN",
+    "lines": [
+      {
+        "right": 211,
+        "bottom": 63,
+        "top": 28,
+        "left": 38,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 570,
+        "bottom": 161,
+        "top": 128,
+        "left": 306,
+        "text": "Text 1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 107,
+        "bottom": 181,
+        "top": 142,
+        "left": 56,
+        "text": "歌詞2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 517,
+        "bottom": 197,
+        "top": 165,
+        "left": 359,
+        "text": "Text 3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 80,
+        "bottom": 303,
+        "top": 258,
+        "left": 35,
+        "text": "歌詞4",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 56,
+        "bottom": 395,
+        "top": 366,
+        "left": 35,
+        "text": "Text 5",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 695,
+        "bottom": 506,
+        "top": 454,
+        "left": 35,
+        "text": "歌詞6",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 223,
+        "bottom": 574,
+        "top": 523,
+        "left": 35,
+        "text": "歌詞7",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 689,
+        "bottom": 678,
+        "top": 624,
+        "left": 32,
+        "text": "歌詞8",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 223,
+        "bottom": 748,
+        "top": 692,
+        "left": 35,
+        "text": "歌詞9",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 895,
+        "top": 835,
+        "left": 32,
+        "text": "歌詞10",
+        "whiteFraction": 0.3
+      },
+      {
+        "right": 422,
+        "bottom": 976,
+        "top": 916,
+        "left": 35,
+        "text": "歌詞11",
+        "whiteFraction": 0.3
+      },
+      {
+        "right": 692,
+        "bottom": 1119,
+        "top": 1065,
+        "left": 35,
+        "text": "歌詞12",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 312,
+        "bottom": 1186,
+        "top": 1132,
+        "left": 32,
+        "text": "歌詞13",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 686,
+        "bottom": 1286,
+        "top": 1238,
+        "left": 41,
+        "text": "歌詞14",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 83,
+        "bottom": 1354,
+        "top": 1306,
+        "left": 32,
+        "text": "歌詞15",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 636,
+        "bottom": 1458,
+        "top": 1407,
+        "left": 35,
+        "text": "歌詞16",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 359,
+        "bottom": 1562,
+        "top": 1511,
+        "left": 32,
+        "text": "歌詞17",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 107,
+        "bottom": 1696,
+        "top": 1640,
+        "left": 50,
+        "text": "歌詞18",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 802,
+        "bottom": 1687,
+        "top": 1649,
+        "left": 787,
+        "text": "Text 19",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 112,
+        "bottom": 1813,
+        "top": 1786,
+        "left": 50,
+        "text": "2:19",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1813,
+        "top": 1786,
+        "left": 761,
+        "text": "8:57",
+        "whiteFraction": 0.0
+      }
+    ]
+  },
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.57 (1).jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "INLINE_PREVIEW",
+    "lines": [
+      {
+        "right": 746,
+        "bottom": 38,
+        "top": 23,
+        "left": 716,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 202,
+        "bottom": 60,
+        "top": 29,
+        "left": 35,
+        "text": "Text 1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 769,
+        "bottom": 60,
+        "top": 32,
+        "left": 710,
+        "text": "Text 2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 814,
+        "bottom": 56,
+        "top": 32,
+        "left": 784,
+        "text": "Text 3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 549,
+        "bottom": 149,
+        "top": 122,
+        "left": 324,
+        "text": "Text 4",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 520,
+        "bottom": 186,
+        "top": 153,
+        "left": 353,
+        "text": "Text 5",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 98,
+        "bottom": 881,
+        "top": 729,
+        "left": 71,
+        "text": "Text 6",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 719,
+        "bottom": 1265,
+        "top": 1226,
+        "left": 53,
+        "text": "歌詞7",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 615,
+        "bottom": 1422,
+        "top": 1377,
+        "left": 53,
+        "text": "Text 8",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 249,
+        "bottom": 1468,
+        "top": 1431,
+        "left": 50,
+        "text": "Text 9",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 109,
+        "bottom": 1550,
+        "top": 1509,
+        "left": 47,
+        "text": "Text 10",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 116,
+        "bottom": 1583,
+        "top": 1553,
+        "left": 50,
+        "text": "0:09",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1583,
+        "top": 1556,
+        "left": 761,
+        "text": "3:16",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 282,
+        "bottom": 1726,
+        "top": 1664,
+        "left": 222,
+        "text": "Text 13",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 112,
+        "bottom": 1723,
+        "top": 1666,
+        "left": 47,
+        "text": "Text 14",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 202,
+        "bottom": 1882,
+        "top": 1838,
+        "left": 41,
+        "text": "Text 15",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 820,
+        "bottom": 1875,
+        "top": 1842,
+        "left": 787,
+        "text": "Text 16",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 169,
+        "bottom": 2025,
+        "top": 1984,
+        "left": 68,
+        "text": "Lyrics",
+        "whiteFraction": 0.0
+      }
+    ]
+  },
+  {
+    "name": "WhatsApp Image 2026-10-15 at 17.59.57 (3).jpeg",
+    "width": 877,
+    "height": 2048,
+    "layout": "INLINE_PREVIEW",
+    "lines": [
+      {
+        "right": 814,
+        "bottom": 60,
+        "top": 17,
+        "left": 719,
+        "text": "Text 0",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 413,
+        "bottom": 824,
+        "top": 785,
+        "left": 53,
+        "text": "歌詞1",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 496,
+        "bottom": 985,
+        "top": 934,
+        "left": 184,
+        "text": "Text 2",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 419,
+        "bottom": 1027,
+        "top": 994,
+        "left": 184,
+        "text": "Text 3",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1143,
+        "top": 1115,
+        "left": 761,
+        "text": "7:27",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 124,
+        "bottom": 1143,
+        "top": 1116,
+        "left": 50,
+        "text": "3:35",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 291,
+        "bottom": 1285,
+        "top": 1223,
+        "left": 181,
+        "text": "Text 6",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 823,
+        "bottom": 1440,
+        "top": 1393,
+        "left": 778,
+        "text": "Text 7",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 719,
+        "bottom": 1435,
+        "top": 1396,
+        "left": 668,
+        "text": "Text 8",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 202,
+        "bottom": 1441,
+        "top": 1399,
+        "left": 41,
+        "text": "歌詞9",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 169,
+        "bottom": 1584,
+        "top": 1541,
+        "left": 68,
+        "text": "Lyrics",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 160,
+        "bottom": 1678,
+        "top": 1642,
+        "left": 77,
+        "text": "歌詞11",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 549,
+        "bottom": 1786,
+        "top": 1732,
+        "left": 68,
+        "text": "歌詞12",
+        "whiteFraction": 0.0
+      },
+      {
+        "right": 630,
+        "bottom": 1932,
+        "top": 1875,
+        "left": 71,
+        "text": "歌詞13",
+        "whiteFraction": 0.0
+      }
+    ]
+  }
+]

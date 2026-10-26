@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Romalala</string>
+    <string name="menu_title">Open a world of songs</string>
+    <string name="demo_direction">Japanese → Latin letters</string>
+    <string name="demo_accessibility">Example: 世界の歌 is written sekai no uta in Latin letters. Tap to replay the conversion.</string>
+    <string name="demo_replay">Replay conversion</string>
+    <string name="allow_overlay">Allow lyric overlay</string>
+    <string name="start_singing">Start singing</string>
+    <string name="stop_overlay">Stop overlay</string>
+    <string name="waiting_permission">Waiting for Android…</string>
+    <string name="stopping">Stopping…</string>
+    <string name="permission_guidance">Allow Romalala to appear over Spotify.</string>
+    <string name="active_guidance">Overlay active · Open Spotify’s Lyrics view.</string>
+    <string name="open_spotify">Open Spotify</string>
+    <string name="how_it_works">Share Spotify, then open Lyrics  ›</string>
+    <string name="close_help">Hide setup guide  ⌃</string>
+    <string name="setup_instructions">1. Allow Romalala to appear over other apps.\n\n2. Start singing, then choose Spotify in Android’s screen-sharing dialog when available.\n\n3. Open a Japanese song’s Lyrics view.\n\nRomalala reads the visible words and writes their pronunciation in Latin letters. It does not translate their meaning. Line detection is approximate.\n\nProcessing happens on your phone. Captured images and lyrics are not saved. If Android shares your whole screen, stop the overlay before switching to unrelated content.\n\nStop here, from the notification, or with Android’s screen-sharing control.</string>
+    <string name="capture_denied">Screen sharing wasn’t granted. You can try again.</string>
+    <string name="overlay_required">Allow the lyric overlay, then start again.</string>
+    <string name="overlay_settings_missing">In Android Settings, allow Romalala to display over other apps.</string>
+    <string name="start_failed">Couldn’t start screen sharing. Keep Romalala open and try again.</string>
+    <string name="notifications_off">Notifications are off. You can stop the overlay in Romalala.</string>
+    <string name="capture_unavailable">Screen sharing is unavailable on this device.</string>
+    <string name="spotify_unavailable">Spotify is not installed or could not be opened.</string>
+    <string name="notification_channel">Romalala screen sharing</string>
+    <string name="notification_title">Romalala overlay active</string>
+    <string name="notification_text">Open Spotify’s Lyrics view · Tap to manage</string>
+    <string name="notification_stop">Stop</string>
+    <string name="overlay_brand">♪ ROMALALA</string>
+    <string name="overlay_current">CURRENT LINE</string>
+</resources>
